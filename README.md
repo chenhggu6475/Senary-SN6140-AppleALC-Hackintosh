@@ -1,0 +1,2 @@
+# Senary-SN6140-AppleALC-Hackintosh
+基于GPT修复的翼龙15Pro的Senary SN6140声卡的AppleALC定制适配
