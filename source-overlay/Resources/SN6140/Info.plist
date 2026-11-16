@@ -20,6 +20,22 @@
 				<key>Path</key>
 				<string>layout15.xml.zlib</string>
 			</dict>
+			<dict>
+				<key>Comment</key>
+				<string>SN6140 1D05:1233 (Monster Abra A5): pin 0x1A analog</string>
+				<key>Id</key>
+				<integer>16</integer>
+				<key>Path</key>
+				<string>layout16.xml.zlib</string>
+			</dict>
+			<dict>
+				<key>Comment</key>
+				<string>SN6140 1D05:1233 (Monster Abra A5): pin 0x1A analog + int mic via ADC 0x13 (Linux path)</string>
+				<key>Id</key>
+				<integer>17</integer>
+				<key>Path</key>
+				<string>layout17.xml.zlib</string>
+			</dict>
 		</array>
 		<key>Platforms</key>
 		<array>
@@ -30,6 +46,22 @@
 				<integer>15</integer>
 				<key>Path</key>
 				<string>Platforms15.xml.zlib</string>
+			</dict>
+			<dict>
+				<key>Comment</key>
+				<string>SN6140 1D05:1233 (Monster Abra A5): pin 0x1A analog</string>
+				<key>Id</key>
+				<integer>16</integer>
+				<key>Path</key>
+				<string>Platforms16.xml.zlib</string>
+			</dict>
+			<dict>
+				<key>Comment</key>
+				<string>SN6140 1D05:1233 (Monster Abra A5): pin 0x1A analog + int mic via ADC 0x13 (Linux path)</string>
+				<key>Id</key>
+				<integer>17</integer>
+				<key>Path</key>
+				<string>Platforms17.xml.zlib</string>
 			</dict>
 		</array>
 	</dict>
