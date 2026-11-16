@@ -17152,6 +17152,62 @@
 					<key>WakeVerbReinit</key>
 					<true/>
 				</dict>
+				<dict>
+					<key>AFGLowPowerState</key>
+					<data>
+					AwAAAA==
+					</data>
+					<key>Codec</key>
+					<string>Experimental SN6140 1D05:1407; CX8070 layout 15 baseline; NOT HARDWARE VALIDATED</string>
+					<key>CodecID</key>
+					<integer>351346567</integer>
+					<key>Comment</key>
+					<string>SN6140 1D05:1233 layout 16: 0x1A analog int mic (0x90A70020)</string>
+					<key>ConfigData</key>
+					<data>
+					AXccEAF3HQABdx4XAXcfkQF3DAIBpxwgAacd
+					AAGnHqcBpx+QAZccMAGXHRABlx6BAZcfAAFn
+					HEABZx0QAWceIQFnHwABZwwC
+					</data>
+					<key>FuncGroup</key>
+					<integer>1</integer>
+					<key>LayoutID</key>
+					<integer>16</integer>
+					<key>WakeConfigData</key>
+					<data>
+					AXcMAgFnDAI=
+					</data>
+					<key>WakeVerbReinit</key>
+					<true/>
+				</dict>
+				<dict>
+					<key>AFGLowPowerState</key>
+					<data>
+					AwAAAA==
+					</data>
+					<key>Codec</key>
+					<string>Experimental SN6140 1D05:1407; CX8070 layout 15 baseline; NOT HARDWARE VALIDATED</string>
+					<key>CodecID</key>
+					<integer>351346567</integer>
+					<key>Comment</key>
+					<string>SN6140 1D05:1233 layout 17: 0x1A analog int mic (0x90A70020)</string>
+					<key>ConfigData</key>
+					<data>
+					AXccEAF3HQABdx4XAXcfkQF3DAIBpxwgAacd
+					AAGnHqcBpx+QAZccMAGXHRABlx6BAZcfAAFn
+					HEABZx0QAWceIQFnHwABZwwC
+					</data>
+					<key>FuncGroup</key>
+					<integer>1</integer>
+					<key>LayoutID</key>
+					<integer>17</integer>
+					<key>WakeConfigData</key>
+					<data>
+					AXcMAgFnDAI=
+					</data>
+					<key>WakeVerbReinit</key>
+					<true/>
+				</dict>
 			</array>
 			<key>IOClass</key>
 			<string>AppleALC</string>
